@@ -21,3 +21,4 @@ Führe einfach diesen Befehl aus:
 
 ```bash
 curl -sSL https://raw.githubusercontent.com/emptybeer-0711/shairport-innomaker-installer/main/airpi_installer.sh | bash
+
